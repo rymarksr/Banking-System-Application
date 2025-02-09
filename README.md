@@ -52,17 +52,22 @@ Run test scenarios:
 
 Welcome message 
 Menu from 1-4
+./images/Welcome to RSR Bank.png
 
 Create Account
+.images/CreateAccount.png
 
 Deposit
+.images/Deposit.png
 
 Withdraw
+.images/Withdraw.png
 
 Generate Statement
+.images/GenerateStatement.png
 
 Exit
-
+.images/Exit.png
 
 
 ## 📚 Clean Architecture Layers
