@@ -50,28 +50,28 @@ python -m "banking_system_app"
 ## ✅ Testing
 Run test scenarios:
 
-###-Welcome message 
-###-Menu from 1-4
+### -Welcome message 
+### -Menu from 1-4
 
 ![images/Welcome to RSR Bank.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Welcome%20to%20RSR%20Bank.png)
 --------------------------------------------------------------------------------------------
-###-Create Account
+### -Create Account
 
 ![images/CreateAccount.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/CreateAccount.png)
 --------------------------------------------------------------------------------------------
-###-Deposit
+### -Deposit
 
 ![images/Deposit.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Deposit.png)
 --------------------------------------------------------------------------------------------
-###-Withdraw
+### -Withdraw
 
 ![images/Withdraw.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Withdraw.png)
 --------------------------------------------------------------------------------------------
-###-Generate Statement
+### -Generate Statement
 
 ![images/GenerateStatement.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/GenerateStatement.png)
 --------------------------------------------------------------------------------------------
-###-Exit
+### -Exit
 
 ![images/Exit.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Exit.png)
 --------------------------------------------------------------------------------------------
