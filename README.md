@@ -86,6 +86,3 @@ Contributions welcome! Ensure:
 - 100% test coverage
 - PEP8 compliance
 - Clean architecture boundaries maintained
-
-
-> **Note**: Replace repository URLs and contact info with your actual project details
