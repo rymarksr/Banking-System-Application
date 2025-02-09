@@ -1,8 +1,8 @@
 # Description: Account entity class
-from dataclasses import dataclass                   # Import dataclass decorator
-from datetime import datetime                       # Import datetime module
-from typing import List                             # Import List type hint
-from ..value_objects.transaction import Transaction # Import Transaction class
+from dataclasses import dataclass                       # Import dataclass decorator
+from datetime import datetime                           # Import datetime module
+from typing import List                                 # Import List type hint
+from ..value_objects.transactions import Transaction    # Import Transaction class
 
 # Define Account class
 class Account:

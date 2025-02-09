@@ -99,6 +99,7 @@ def main():
             elif command == 4:
                     # Exit the program
                     print("\n\t\t\t𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕦𝕤𝕚𝕟𝕘 ℝ𝕊ℝ 𝔹𝕒𝕟𝕜❕\n")
+                    print("=" * 90)
                     break
                
         except ValueError:

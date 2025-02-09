@@ -1,6 +1,6 @@
 # Description: CustomerRepository class responsible for handling customer data operations.
 from threading import Lock                      # Import Lock class from threading module
-from typing import Dict, Optional, List         # Import necessary modules
+from typing import Dict, Optional        # Import necessary modules
 from domain.entities.customers import Customer  # Import Customer entity
 
 # Define CustomerRepository class
