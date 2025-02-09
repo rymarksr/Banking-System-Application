@@ -52,22 +52,22 @@ Run test scenarios:
 
 Welcome message 
 Menu from 1-4
-images/Welcome to RSR Bank.png
+[images/Welcome to RSR Bank.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Welcome%20to%20RSR%20Bank.png)
 
 Create Account
-images/CreateAccount.png
+[images/CreateAccount.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/CreateAccount.png)
 
 Deposit
-images/Deposit.png
+[images/Deposit.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Deposit.png)
 
 Withdraw
-images/Withdraw.png
+[images/Withdraw.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Withdraw.png)
 
 Generate Statement
-images/GenerateStatement.png
+[images/GenerateStatement.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/GenerateStatement.png)
 
 Exit
-images/Exit.png
+[images/Exit.png](https://github.com/rymarksr/Banking-System-Application/blob/main/images/Exit.png)
 
 
 ## 📚 Clean Architecture Layers
